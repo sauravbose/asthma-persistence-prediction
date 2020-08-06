@@ -1,4 +1,4 @@
-asthma-persistence
+asthma-persistence-prediction
 ==============================
 
 Using Machine Learning techniques to predict persistent asthma in children
