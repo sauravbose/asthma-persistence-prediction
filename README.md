@@ -1,7 +1,7 @@
 asthma-persistence-prediction
 ==============================
 
-Using Machine Learning techniques to predict persistent asthma in children
+Developed machine learning models (XGBoost, Random Forest, Logistic Regression) and training pipelines consisting of feature selection, class balance, Bayesian hyperparameter tuning and model evaluation to predict persistent asthma in children.
 
 Project Organization
 ------------
@@ -38,4 +38,4 @@ BibTeX entry:
 }
 ```
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<p><small> The project organization is based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
